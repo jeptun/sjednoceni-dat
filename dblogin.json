@@ -1,0 +1,22 @@
+{
+  "userLoginHistory": [
+    {
+      "id": 4,
+      "date": "01.13.2023",
+      "ipAddress": "127.0.0.1",
+      "browser": "Mozilla Firefox"
+    },
+    {
+      "id": 5,
+      "date": "02.13.2023",
+      "ipAddress": "127.0.0.1",
+      "browser": "Mozilla Firefox"
+    },
+    {
+      "id": 6,
+      "date": "03.13.2023",
+      "ipAddress": "127.0.0.1",
+      "browser": "Mozilla Firefox"
+    }
+  ]
+}

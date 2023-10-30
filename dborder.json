@@ -1,0 +1,22 @@
+{
+  "userPayments": [
+    {
+      "id": 1,
+      "dateTime": "04.13.2023",
+      "ipAddress": "127.0.0.1",
+      "paymentType": "CZK"
+    },
+    {
+      "id": 2,
+      "dateTime": "05.13.2023",
+      "ipAddress": "127.0.0.1",
+      "paymentType": "EUR"
+    },
+    {
+      "id": 3,
+      "dateTime": "06.13.2023",
+      "ipAddress": "127.0.0.1",
+      "paymentType": "USD"
+    }
+  ]
+}
